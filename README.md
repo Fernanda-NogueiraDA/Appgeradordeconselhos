@@ -23,7 +23,7 @@ O foco foi construir uma interface responsiva e fiel ao design proposto, **sem u
 
 Veja abaixo o exemplo da interface final:
 
-![preview](https://github.com/Fernanda-NogueiraDA/Appgeradordeconselhos.git)
+![preview](https://fernanda-nogueirada.github.io/Appgeradordeconselhos/)
 
 ## 🏆 Créditos
 
