@@ -1,0 +1,83 @@
+body{
+    background-color:hsl(218, 23%, 16%);
+    font-family: "Manrope", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100vh;
+    padding: 16px;
+    
+}
+
+.card{
+    background-color:hsl(217, 19%, 24%);
+    color: hsl(193, 38%, 86%);
+    padding: 40px 32px 72px;
+    border-radius: 15px;
+    text-align: center;
+    width: 444px;
+    position: relative;
+}
+
+.numero-conselho{
+    color:hsl(150, 100%, 66%);
+    font-size: 12px;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+}
+
+.conselho-1 {
+    font-size: 24px;
+    font-weight: 800;
+    margin-bottom: 24px;
+    line-height: 36px;
+}
+
+
+.divider{
+    display: block;
+    margin-bottom: 32px;
+}
+
+.divider img{
+    width: 100%;
+    height: auto;
+}
+
+.btn{
+    background-color: hsl(150, 100%, 66%);
+    border: none;
+    padding: 10px 10px;
+    border-radius: 50%;
+    font-size: 16px;
+    cursor: pointer;
+    display: flex;
+    width: 54px;
+    height: 54px;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    left: 50%;
+    bottom: 35px;
+    transform: translateX(-50%);
+    transition: box-shadow 0.3s ease;
+
+}
+
+.btn:houver{
+    box-shadow: 0 0 20pw hsl( 150, 100%1 66%);
+}
+
+@media (max-width:400px){
+    .card{
+        width: 295px;
+        padding: 32px 24px 72px;
+    }
+
+    .conselho-1 {
+        font-size: 20px;
+        line-height: 32px;
+    }
+}
