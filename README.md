@@ -23,7 +23,7 @@ O foco foi construir uma interface responsiva e fiel ao design proposto, **sem u
 
 Veja abaixo o exemplo da interface final:
 
-![preview](preview.png)
+![preview](http://127.0.0.1:5500/advice-generator-app-main/index.html)
 
 ## 🏆 Créditos
 
